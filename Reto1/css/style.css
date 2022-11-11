@@ -1,0 +1,53 @@
+body {
+  background-color: antiquewhite;
+  background-image: url(../assets/retrowave-lineas-montanas_1920x1080_xtrafondos.com.jpg);
+  background-size: cover;
+}
+.titulo {
+  margin-top: 4vw;
+}
+.titulo h1 {
+  color: white;
+}
+
+.marcotop {
+  background-color: white;
+  border-radius: 5px 5px 0px 0px;
+  padding: 1em;
+  background-image: url(../assets/5172570_lock_locked_icon.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 70px;
+  margin-top: 2vw;
+}
+
+.marcodown {
+  background-color: rgb(224, 224, 224);
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  margin-bottom: 1em;
+}
+.btnlogin {
+  background-color: rgb(74, 221, 193);
+  color: black;
+  border-color: rgb(88, 226, 200);
+}
+.btnlogin:hover {
+  background-color: rgb(216, 41, 233);
+}
+.btnlogin:focus {
+  background-color: rgb(216, 41, 233);
+}
+.btnlogin:active {
+  background-color: rgb(216, 41, 233);
+}
+
+.botones {
+  margin-top: 1em;
+}
+.botones text {
+  padding: 5px;
+}
+.botones img {
+  padding-right: 5px;
+}
